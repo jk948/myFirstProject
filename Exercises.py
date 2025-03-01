@@ -7,3 +7,5 @@ print(sum_two_numbers(num2=6, num1=14))
 
 git config --global user.name "jk948"
 git config --global user.email jk948@jbs.cam.ac.uk
+
+print(sum_two_numbers(2,3))
